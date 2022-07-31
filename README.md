@@ -4,4 +4,4 @@
 
 ![C badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![CPP badge](https://img.shields.io/badge/-CPP-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![PYTHON badge](https://img.shields.io/badge/-PYTHON-B3299C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![PYTHON badge](https://img.shields.io/badge/-PYTHON-B3299C?style=flat-square&logo=Python&logoColor=white)
